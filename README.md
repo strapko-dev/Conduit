@@ -1,4 +1,5 @@
 # Conduit
+<img width="1680" alt="Screenshot 2023-06-05 at 20 16 09" src="https://github.com/strapko-dev/Conduit/assets/105553239/a3348380-3160-4f1a-bfd2-88b99a6644a4">
 
 ## How to run project
 
@@ -20,4 +21,3 @@
    - `yarn run build:prod` - building production version.
    - `yarn run build` - building development version
    - `yarn run serve` - building development hot-reloaded version
-<img width="1680" alt="Screenshot 2023-06-05 at 20 16 09" src="https://github.com/strapko-dev/Conduit/assets/105553239/a3348380-3160-4f1a-bfd2-88b99a6644a4">
