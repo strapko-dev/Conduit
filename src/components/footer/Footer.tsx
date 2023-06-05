@@ -1,7 +1,7 @@
-import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithubAlt } from '@fortawesome/free-brands-svg-icons/faGithubAlt';
-import style from './footer.module.scss';
+import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGithubAlt } from "@fortawesome/free-brands-svg-icons/faGithubAlt";
+import style from "./footer.module.scss";
 
 const Footer = () => {
   return (
@@ -10,7 +10,7 @@ const Footer = () => {
         className={style.link}
         target="_blank"
         rel="noopener noreferrer"
-        href="https://github.com/nadyacherepaha/conduit"
+        href="https://github.com/strapko-dev/Conduit"
       >
         <FontAwesomeIcon data-testid="footer-icon" icon={faGithubAlt} />
         Fork on GitHub
